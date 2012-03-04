@@ -1,7 +1,7 @@
 # Caféduino
 
 A coffee maker assistant, using the Arduino platform and Pachube.com to detect
-the state of the coffee maker. Originally installed in the offices of (Azavea)[http://www.azavea.com/]
+the state of the coffee maker. Originally installed in the offices of [Azavea](http://www.azavea.com/)
 
 ## Requirements
 
@@ -26,7 +26,7 @@ The ethernet shield configuration:
  
 Coffee Maker:
 
- * (Zojirushi EC-BD15BAFresh Brew Thermal Carafe Coffee Maker)[http://www.amazon.com/Zojirushi-EC-BD15BAFresh-Thermal-Carafe-Coffee/dp/B0000X7CMQ]
+ * [Zojirushi EC-BD15BAFresh Brew Thermal Carafe Coffee Maker](http://www.amazon.com/Zojirushi-EC-BD15BAFresh-Thermal-Carafe-Coffee/dp/B0000X7CMQ)
 
 ## Usage
 
