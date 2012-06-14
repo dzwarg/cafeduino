@@ -40,3 +40,11 @@ The system worked by measuring the weight distribution of the coffee maker. With
  * Force of a full carafe and an empty reservoir
  
 With these points of reference, the automated systems to interrogate the coffee maker could determine the volume of coffee, and where it was in the brewing cycle.
+
+## Diagrams
+
+In this repository are a few diagrams/sketches that I made while building this widget:
+
+ * (Sketch #1)[https://raw.github.com/dzwarg/cafeduino/master/idea_sketch_1.jpg]: An initial diagram with a force sensor and ideas about what kind of HTTP response I would expect.
+ * (Sketch #2)[https://raw.github.com/dzwarg/cafeduino/master/idea_sketch_2.jpg]: A secondary sketch, using a fulcrum and two piezo sensors, closely resembling the actual wiring in the platform.
+ * (Wiring)[https://raw.github.com/dzwarg/cafeduino/master/wiring.jpg]: A wiring diagram with digital input (DIx), digital output (DOx), and analog input (AIx) leads notated.
